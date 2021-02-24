@@ -1,0 +1,27 @@
+
+            table,th,td {
+                border: 3px solid rgb(0, 0, 0);
+                }
+                #footer1{
+                   background-color: rgb(175, 169, 207); text-align: right;
+                    
+                }
+
+                #header1{
+                   text-align: center; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: 50px;color: midnightblue;
+
+                }
+                #header2{
+                    text-align:center; font-style: italic;
+                }
+                .lineclass1{
+                    background-color: greenyellow;
+                }
+                .lineclass2{
+                    background-color: greenyellow;
+                }
+                .lineclass3{
+                    background-color: greenyellow;
+                }
+
+                
